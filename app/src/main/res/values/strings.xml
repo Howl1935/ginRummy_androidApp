@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gin Rummy</string>
+    <string name="player_1">PLAYER ONE</string>
+    <string name="player_2">PLAYER TWO</string>
+    <string name="save_file">SAVE NAME</string>
+    <string name="go">GO</string>
+</resources>
